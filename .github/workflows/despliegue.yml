@@ -3,7 +3,7 @@ name: CI/CD Pipeline for holamundo_multi
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   test:
